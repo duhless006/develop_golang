@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/duhless006/develop_golang/datafile"
+	"github.com/duhless/develop_golang/develop_golang/datafile"
 )
 
 func main() {
